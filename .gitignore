@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Xcode files you usually don't want
+*.xcuserdatad
+*.xcscmblueprint
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager / build folders
+build/
+DerivedData/
